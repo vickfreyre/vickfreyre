@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vickfreyre
-- 👀 I’m interested IA
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning Java Certification and Data Science with Python
 - 💞️ I’m looking to collaborate on multiple projects
 - 📫 How to reach me: vickfreyre@gmail.com
